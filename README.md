@@ -1,5 +1,5 @@
 
-A script for quickly installing your favorite apps from F-Droid for the first time (on a new phone, a custom rom installation etc.)
+A script for quickly installing your favorite apps from F-Droid for the first time (on a new phone, after a custom rom installation etc.)
 
 ## Dependencies
 
