@@ -2,4 +2,6 @@ apps.yml
 __pycache__/
 venv/
 repos/**
+!repos/.gitkeep
 apks/**
+!apks/.gitkeep
