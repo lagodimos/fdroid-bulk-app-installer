@@ -9,11 +9,15 @@ A script for quickly installing your favorite apps from F-Droid for the first ti
 
 From the repository directory run
 
-```python3 -m venv venv```
+```
+python3 -m venv venv
+```
 
 to create a new virtual environment and
 
-```pip install -r requirements.txt```
+```
+pip install -r requirements.txt
+```
 
 to install the python modules
 
@@ -23,7 +27,9 @@ to install the python modules
 
 2. Start the adb server
 
-```adb start-server```
+```
+adb start-server
+```
 
 3. Connect your device to your machine with USB and allow debugging
 
@@ -31,4 +37,6 @@ to install the python modules
 
 4. Run the script
 
-```python3 setup.py```
+```
+python3 setup.py
+```
