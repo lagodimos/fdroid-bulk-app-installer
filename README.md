@@ -38,5 +38,5 @@ adb start-server
 4. Run the script
 
 ```
-venv/bin/python3 setup.py
+venv/bin/python3 install.py
 ```
